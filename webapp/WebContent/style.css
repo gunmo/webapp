@@ -1,0 +1,20 @@
+h2, h3 {
+	font-family:"¸¼Àº°íµñ";
+	color:yellow;
+	text-align: right;
+}
+.testclass{
+	color:blue;
+	text-align: center;
+}
+#testid{
+	color:brown;
+	text-align: right;
+}
+
+<style type='text/css'>
+a:link{color:gray;}
+a:visited{color:brown;}
+a:hover{color:red}
+a:active{color:yellow;}
+</style>
